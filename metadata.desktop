@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=rey-qt6Dell
+Description=Rey Dark Theme Dell (Qt6 compatible)
+Author=Reyner Labrada
+Copyright=(c) 2024, Rey Theme
+License=CC-BY-SA
+Type=sddm-theme
+Version=2.0
+Website=https://github.com/sddm/sddm
+Screenshot=background.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=rey-qt6Dell
+Theme-API=2.0
